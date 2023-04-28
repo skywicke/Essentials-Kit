@@ -16,6 +16,10 @@
 ### Simple Ranged Weapons
 | Name | Cost | Damage | Weight | Properties |
 | --- | --- | --- | --- | --- |
+| Crossbow, light | 25 gp | 1d8 piercing | 5 lbs | Ammunition (range 80/320), loading, two-handed |
+| Dart | 3 cp | 1d4 piercing | 1/4 lbs | Finess, thrown (range 20/60) |
+| Shortbow | 25 gp | 1d6 piercing | 2 lbs | Ammunition (range 30/320), two-handed |
+| Sling | 1 sp | 1d4 bludgeoning | --- | Ammunition (range 30/120) |
 
 ### Martial Melee Weapons
 | Name | Cost | Damage | Weight | Properties |
