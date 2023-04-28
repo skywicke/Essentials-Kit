@@ -1,9 +1,5 @@
 # ADVENTURING GEAR
 
-| Item | Cost | Weight |
-| :--- | ---: | ---: |
-| Abacus | 2 gp | 2 lbs |
-
 ### Ammunition
 | Item | Cost | Weight |
 | :--- | ---: | ---: |
@@ -41,13 +37,32 @@
 ### Gaming Set
 | Item | Cost | Weight |
 | :--- | ---: | ---: |
+| Dice set | 1 sp | --- |
+| Dragonchess set | 1 gp | 0.5 lbs |
+| Playing card set | 5 sp | --- |
+| Three-Dragon Ante set | 1 gp | --- |
 
 ### Holy Symbol
 | Item | Cost | Weight |
 | :--- | ---: | ---: |
+| Amulet | 5 gp | 1 lbs |
+| Emblem | 5 gp | --- |
+| Reliquary | 5 gp | 2 lbs |
 
 ### Musical Instrument
 | Item | Cost | Weight |
 | :--- | ---: | ---: |
+| Bagpipes | 30 gp | 6 lbs |
+| Drum | 6 gp | 3 lbs |
+| Flute | 2 gp | 1 lbs |
+| Lute | 35 gp | 2 lbs |
+| Lyre | 30 gp | 2 lbs |
+| Horn | 3 gp | 2 lbs |
+| Pan flute | 12 gp | 1 lbs |
+
+### Other Items
+| Item | Cost | Weight |
+| :--- | ---: | ---: |
+| Abacus | 2 gp | 2 lbs |
 
 
