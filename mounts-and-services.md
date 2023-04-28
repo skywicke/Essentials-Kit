@@ -46,19 +46,19 @@
 ## Other Services
 ### Coach cab
 | Service | Cost |
-| :--- | ---: |
+| :--- | :--- |
 | Between towns | 3 cp per mile |
 | Within a city | 1 cp |
 
 ### Hireling
 | Service | Cost |
-| :--- | ---: |
+| :--- | :--- |
 | Skilled | 2 gp per day |
 | Unskilled | 2 sp per day |
 
 ### Other
 | Service | Cost |
-| :--- | ---: |
+| :--- | :--- |
 | Messenger | 2 cp per mile |
 | Road or gate toll | 1 cp |
 | Ship's passage | 1 sp per mile |
