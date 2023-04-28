@@ -1,2 +1,0 @@
-| Item | Cost | Weight |
-| --- | --- | --- |
