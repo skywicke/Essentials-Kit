@@ -24,6 +24,11 @@
 ### Martial Melee Weapons
 | Name | Cost | Damage | Weight | Properties |
 | --- | --- | --- | --- | --- |
+| Battleaxe | 10 gp | 1d8 slashing | 4 lbs | Versatile (1d10) |
+| Flail | 10 gp | 1d8 bludgeoning | 2 lbs | --- |
+| Greataxe | 30 gp | 1d12 slashing | 7 lbs | Heavy, two-handed |
+| Greatsword | 50 gp | 2d6 slashing | 6 lbs | Heavy, two-handed |
+| Halberd | 20 gp | 1d10 slashing | 6 lbs | Heavy, reach, two-handed |
 
 ### Martial Ranged Wepaons
 | Name | Cost | Damage | Weight | Properties |
