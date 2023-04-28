@@ -23,6 +23,9 @@
 ### Artisan's Tools
 | Item | Cost | Weight |
 | --- | --- | --- |
+| Brewer's Supplies | 20 gp | 9 lbs |
+| Calligrapher's Supplies | 10 gp | 5 lbs |
+| Carpenter's Supplies | 8 gp | 6 lbs |
 
 ### Gaming Set
 | Item | Cost | Weight |
