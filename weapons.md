@@ -29,6 +29,14 @@
 | Greataxe | 30 gp | 1d12 slashing | 7 lbs | Heavy, two-handed |
 | Greatsword | 50 gp | 2d6 slashing | 6 lbs | Heavy, two-handed |
 | Halberd | 20 gp | 1d10 slashing | 6 lbs | Heavy, reach, two-handed |
+| Longsword | 15 gp | 1d8 slashing | 3 lbs | Versatile (1d10) |
+| Maul | 10 gp | 2d6 bludgeoning | 10 lbs | Heavy, two-handed |
+| Morningstar | 15 gp | 1d8 piercing | 4 lbs | --- |
+| Rapier | 25 gp | 1d8 piercing | 2 lbs | Finesse |
+| Scimitar | 25 gp | 1d6  slashing | 3 lbs | Finesse, light |
+| Shortsword | 10 gp | 1d6 piercing | 2 lbs | Finesse, light |
+| Trident | 5 gp | 1d6 piercing | 4 lbs | Thrown (range 20/60), versatile (1d8) |
+| Warhammer | 15 gp | 1d8 bludgeoning | 2 lbs | Versatile (1d10) |
 
 ### Martial Ranged Wepaons
 | Name | Cost | Damage | Weight | Properties |
